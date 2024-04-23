@@ -6,6 +6,7 @@ function FirstComponent() {
 
     return (
         <div className='teste'>
+            <hr />
             {/* Comentário no JSX */}
             <p>Primeiro Componente</p>
             <p>{2 + 2}</p>

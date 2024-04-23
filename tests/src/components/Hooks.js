@@ -19,6 +19,7 @@ const Hooks = () => {
 
     return (
         <div>
+            <hr />
             <p>Idade: {idade}</p>
             <button onClick={changeAge}>Mudar idade</button>
             <p>Idade: {novaIdade}</p>

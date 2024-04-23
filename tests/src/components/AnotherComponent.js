@@ -6,6 +6,7 @@ const AnotherComponent = () => {
 
     return (
         <div>
+            <hr />
             <p>Segundo componente</p>
             <button onClick={handleClick}>Evento de click</button>
             <hr />
